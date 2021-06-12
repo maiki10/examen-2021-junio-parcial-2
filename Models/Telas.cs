@@ -14,6 +14,8 @@ namespace ApiTelas.Models
 
         public string ancho { get; set; }
 
+        public string largo { get; set; }
+
         public string tipoDeTela { get; set; }
 
         public string color { get; set; }
